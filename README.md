@@ -1,3 +1,3 @@
 # exercise-repo
 beginner exercise in git
-10:00 I have added something in the readme.md file located my desktop
+12:50 the changes made in the file: one change made on the file lockated on the desktop and the second change made on the file lokated in the GitHub page have been deleted to resolve the conflict
