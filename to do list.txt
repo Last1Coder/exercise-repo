@@ -1,3 +1,8 @@
 1 beer - 2 cans
 2 salad - 1 plate
 3 musik - "Zaise, zaide jasno sonce"
+
+dd complaining:
+2 cans are not enough, please add 2 more
+1 salad is ok
+musik ok ok
